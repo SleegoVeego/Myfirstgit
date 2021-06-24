@@ -1,0 +1,2 @@
+# Myfirstgit
+Project for scripting
